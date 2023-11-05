@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gemmadwi-mg
-- 👀 I’m interested in flutter and mobile app
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me gemmaameg@gmail.com
 
 <!---
